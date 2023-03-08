@@ -6,7 +6,7 @@ Soy **Venezolano** y aun vivo en Venezuela.
 Tengo ya 300 horas de curso en **FreeCodeCamp de HTML y CSS**, he estado aprendiendo por mi cuenta un poco de 
 JavaScript.
 
-## Estoy cursando un **BootCamp de Guillermo rodas**
+## Estoy cursando un **BootCamp de Guillermo Rodas**
 
 Me siento muy animado y emocionado de estar en este **BootCamp**, preparandome para un mejor futuro, 
 dedicandole y poniendole todo mi empeño.
